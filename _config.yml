@@ -1,0 +1,28 @@
+name: Test Grid
+favicon: null
+layout_spectrum: 0.528261411935091
+typography_spectrum: 0.5375041388906538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.105257946299389
+  lightness: 0.8978150128386915
+  saturation: 0.5773310970980674
+  rhythmicContrast: 0.25961089762859046
+purpose: []
