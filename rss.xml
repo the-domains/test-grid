@@ -4,14 +4,14 @@
         <description><![CDATA[jarthurco mock]]></description>
         <link>https://thegrid.ai/test-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 18:24:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-grid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e9ae76-2e39-46f0-8cbd-e1c66ee1175d.jpg">]]></description>
+            <title><![CDATA[First Draft]]></title>
+            <description><![CDATA[<p></p>]]></description>
             <link>https://thegrid.ai/test-grid/6bf07f5b-80a4-45ed-9252-79a3a7190270/index.html</link>
             <guid isPermaLink="false">6bf07f5b-80a4-45ed-9252-79a3a7190270</guid>
-            <pubDate>Fri, 29 Apr 2016 18:17:54 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 18:23:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
