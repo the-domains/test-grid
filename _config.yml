@@ -1,7 +1,7 @@
 name: Test Grid
 favicon: null
-layout_spectrum: 0.528261411935091
-typography_spectrum: 0.5375041388906538
+layout_spectrum: 0.30191
+typography_spectrum: 0.79767
 title: jarthurco mock
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.105257946299389
-  lightness: 0.8978150128386915
-  saturation: 0.5773310970980674
-  rhythmicContrast: 0.25961089762859046
+  brandStrength: 0.5625
+  lightness: 0.125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
