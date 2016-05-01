@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Understanding the mission, values and long term goals of your company is key to ensure that all content reinforces your brand identity in a competitively unique way. With dynamic design & applications, we’re able to empower the brand so that it makes a statement to the customer and inspires growth.'
-datePublished: '2016-04-29T18:27:53.652Z'
-dateModified: '2016-04-29T18:27:41.315Z'
+datePublished: '2016-05-01T21:21:41.582Z'
+dateModified: '2016-05-01T21:21:41.390Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-understanding-the-mission-values-and-long-term-goals-of-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-29-understanding-the-mission-values-and-long-term-goals-of-you.md
-published: true
+starred: true
 url: understanding-the-mission-values-and-long-term-goals-of-you/index.html
 _type: Article
 
