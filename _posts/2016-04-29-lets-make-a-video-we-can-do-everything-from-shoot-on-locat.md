@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Let’s make a video. We can do everything from shoot on location to create video advertisements with typography, voice-overs, motion graphics, custom photography & the best music. Video marketing products are simply something every serious business should have in the year 2016 & beyond!'
-datePublished: '2016-04-29T20:58:04.775Z'
-dateModified: '2016-04-29T20:58:04.051Z'
+datePublished: '2016-05-01T21:22:24.191Z'
+dateModified: '2016-04-29T21:00:42.294Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-29-lets-make-a-video-we-can-do-everything-from-shoot-on-locat.md
 published: true
+starred: true
 url: lets-make-a-video-we-can-do-everything-from-shoot-on-locat/index.html
 _type: Article
 
